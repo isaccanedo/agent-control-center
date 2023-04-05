@@ -2,7 +2,7 @@
 
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/Appdynamics/agent-control-center)
 
-The purpose of this utility is a web interface extension of AppDynamics for viewing agents status in Appdynamics, with the ability to check their health history and perform the agent version upgrade.
+O objetivo deste utilitário é uma extensão da interface web do AppDynamics para visualizar o status dos agentes no Appdynamics, com a capacidade de verificar seu histórico de saúde e realizar a atualização da versão do agente.
 
 ## Requirements
 
