@@ -10,11 +10,11 @@ O objetivo deste utilitário é uma extensão da interface web do AppDynamics pa
 - Docker
 - Docker-compose
 
-## Execution the utility
+## Execução do utilitário
 
-The first step is to build the container images locally by running the command **./build-docker.sh all**
+A primeira etapa é criar as imagens do contêiner localmente executando o comando **./build-docker.sh all**
 
-The second step is to start the containers by running the command **./start.sh**
+A segunda etapa é iniciar os contêineres executando o comando **./start.sh**
 
 To stop ACC run the command **./stop.sh**
 
