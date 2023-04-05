@@ -16,9 +16,9 @@ A primeira etapa é criar as imagens do contêiner localmente executando o coman
 
 A segunda etapa é iniciar os contêineres executando o comando **./start.sh**
 
-To stop ACC run the command **./stop.sh**
+Para interromper o ACC, execute o comando **./stop.sh**
 
-## How to use
+## Como usar
 
 After starting the Agent Control Center, go to **http://localhost** address in your Web Browser.
 
