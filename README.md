@@ -4,7 +4,7 @@
 
 O objetivo deste utilitário é uma extensão da interface web do AppDynamics para visualizar o status dos agentes no Appdynamics, com a capacidade de verificar seu histórico de saúde e realizar a atualização da versão do agente.
 
-## Requirements
+## Requisitos
 
 - Virtual Machine (4 vCPU and 8GB memory)
 - Docker
