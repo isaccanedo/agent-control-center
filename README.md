@@ -6,7 +6,7 @@ O objetivo deste utilitário é uma extensão da interface web do AppDynamics pa
 
 ## Requisitos
 
-- Virtual Machine (4 vCPU and 8GB memory)
+- Máquina Virtual (4 vCPU e 8GB de memória)
 - Docker
 - Docker-compose
 
