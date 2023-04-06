@@ -20,11 +20,11 @@ Para interromper o ACC, execute o comando **./stop.sh**
 
 ## Como usar
 
-After starting the Agent Control Center, go to **http://localhost** address in your Web Browser.
+Depois de iniciar o Agent Control Center, vá para o endereço **http://localhost** em seu navegador da Web.
 
-To log into the ACC it is necessary to create an access token in the AppDynamics interface, if you already have the token, skip to the next topic.
+Para logar no ACC é necessário criar um token de acesso na interface do AppDynamics, caso você já possua o token passe para o próximo tópico.
 
-In the AppDynamics admin interface click on "API Clients" and then on "Create".
+Na interface de administração do AppDynamics clique em "API Clients" e depois em "Create".
 
 ![01](https://github.com/Appdynamics/agent-control-center/blob/main/docimages/Create-API-Token-01.png?raw=true)
 
