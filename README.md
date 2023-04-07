@@ -43,7 +43,7 @@ Agora que o login pode ser feito, preencha os campos conforme solicitado, inclui
 
 ![03](https://github.com/Appdynamics/agent-control-center/blob/main/docimages/Login-01.png?raw=true)
 
-After logging in, it is necessary to configure the Access Key and the Global Account Name. Click on the Controller item on the side menu and fill in the values that can be found in the AppDynamics license interface.
+Após o login, é necessário configurar a Chave de Acesso e o Nome da Conta Global. Clique no item Controlador no menu lateral e preencha os valores que podem ser encontrados na interface de licença do AppDynamics.
 
 ![04](https://github.com/Appdynamics/agent-control-center/blob/main/docimages/Controller-01.png?raw=true)
 
