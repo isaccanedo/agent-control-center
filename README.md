@@ -39,7 +39,7 @@ Clique no botão Salvar.
 
 ![02](https://github.com/Appdynamics/agent-control-center/blob/main/docimages/Create-API-Token-02.png?raw=true)
 
-Now the login can be performed, fill in the fields as requested, including the Token data created in the previous step.
+Agora que o login pode ser feito, preencha os campos conforme solicitado, incluindo os dados do Token criado na etapa anterior.
 
 ![03](https://github.com/Appdynamics/agent-control-center/blob/main/docimages/Login-01.png?raw=true)
 
