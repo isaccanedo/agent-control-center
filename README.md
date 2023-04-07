@@ -28,7 +28,7 @@ Na interface de administração do AppDynamics clique em "API Clients" e depois 
 
 ![01](https://github.com/Appdynamics/agent-control-center/blob/main/docimages/Create-API-Token-01.png?raw=true)
 
-Enter the following fields:
+Digite os seguintes campos:
 
 - Client Name: will be used on the Login screen
 - Client Secret: Click on the "Generate Secret" button and copy the value informed, it will be used on the Login screen. Save in a safe place as this value will no longer be visible.
