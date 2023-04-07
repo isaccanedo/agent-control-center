@@ -49,9 +49,9 @@ Após o login, é necessário configurar a Chave de Acesso e o Nome da Conta Glo
 
 Alguns agentes serão atualizados usando playbook ansible e outros agentes por meio de suas próprias APIs.
 
-For agents updated with ansible it is necessary to configure access to the server where the agent is running. This access is safe and performed within the client's environment, no external access is necessary and only the customer will have access to the ACC server where the access key will be configured.
+Para agentes atualizados com ansible é necessário configurar o acesso ao servidor onde o agente está rodando. Este acesso é seguro e realizado dentro do ambiente do cliente, não sendo necessário acesso externo e somente o cliente terá acesso ao servidor ACC onde será configurada a chave de acesso.
 
-To configure access (certificate), follow these steps:
+Para configurar o acesso (certificado), siga os seguintes passos:
 
 - Place a certificate of access to the server where the agent is running on the server where the ACC is running, for example in the path: /home/user_services/.ssh/user_services.cer
 - Click on KEYS menu item
