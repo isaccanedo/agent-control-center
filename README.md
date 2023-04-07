@@ -47,7 +47,7 @@ Após o login, é necessário configurar a Chave de Acesso e o Nome da Conta Glo
 
 ![04](https://github.com/Appdynamics/agent-control-center/blob/main/docimages/Controller-01.png?raw=true)
 
-Some agents will be updated using ansible playbook and other agents through their own APIs.
+Alguns agentes serão atualizados usando playbook ansible e outros agentes por meio de suas próprias APIs.
 
 For agents updated with ansible it is necessary to configure access to the server where the agent is running. This access is safe and performed within the client's environment, no external access is necessary and only the customer will have access to the ACC server where the access key will be configured.
 
