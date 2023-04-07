@@ -53,9 +53,9 @@ Para agentes atualizados com ansible é necessário configurar o acesso ao servi
 
 Para configurar o acesso (certificado), siga os seguintes passos:
 
-- Place a certificate of access to the server where the agent is running on the server where the ACC is running, for example in the path: /home/user_services/.ssh/user_services.cer
-- Click on KEYS menu item
-- Click on "Add" new key
+- Coloque um certificado de acesso ao servidor onde o agente está rodando no servidor onde o ACC está rodando, por exemplo no caminho: /home/user_services/.ssh/user_services.cer
+- Clique no item de menu CHAVES
+- Clique em "Adicionar" nova chave
 
 Now agents can be updated!
 
