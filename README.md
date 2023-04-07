@@ -35,7 +35,7 @@ Enter the following fields:
 - Default Token Expiration: change it to 24 hours
 - Roles: click on the "Add" button and add the available roles
 
-Click on the Save button.
+Clique no botão Salvar.
 
 ![02](https://github.com/Appdynamics/agent-control-center/blob/main/docimages/Create-API-Token-02.png?raw=true)
 
