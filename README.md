@@ -30,10 +30,10 @@ Na interface de administração do AppDynamics clique em "API Clients" e depois 
 
 Digite os seguintes campos:
 
-- Client Name: will be used on the Login screen
-- Client Secret: Click on the "Generate Secret" button and copy the value informed, it will be used on the Login screen. Save in a safe place as this value will no longer be visible.
-- Default Token Expiration: change it to 24 hours
-- Roles: click on the "Add" button and add the available roles
+- Nome do Cliente: será utilizado na tela de Login
+- Segredo do Cliente: Clique no botão "Gerar Segredo" e copie o valor informado, ele será utilizado na tela de Login. Salve em local seguro, pois esse valor não ficará mais visível.
+- Expiração do token padrão: altere para 24 horas
+- Funções: clique no botão "Adicionar" e adicione as funções disponíveis
 
 Clique no botão Salvar.
 
