@@ -57,7 +57,7 @@ Para configurar o acesso (certificado), siga os seguintes passos:
 - Clique no item de menu CHAVES
 - Clique em "Adicionar" nova chave
 
-Now agents can be updated!
+Agora os agentes podem ser atualizados!
 
 ![05](https://github.com/Appdynamics/agent-control-center/blob/main/docimages/Keys-01.png?raw=true)
 
