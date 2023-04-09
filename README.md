@@ -65,7 +65,7 @@ To list the agents, click on the Agents item in the side menu.
 
 ![06](https://github.com/Appdynamics/agent-control-center/blob/main/docimages/AgentsfromAppD-01.png?raw=true)
 
-To update the agent version, click on the "play" corresponding to the agent.
+Para atualizar a versão do agente, clique no "play" correspondente ao agente.
 
 The interface will automatically identify the agent type and ask for the information needed to update the agent. Enter the requested data and click on "Create Task"
 
