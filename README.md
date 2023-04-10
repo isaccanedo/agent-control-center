@@ -67,7 +67,7 @@ Para listar os agentes, clique no item Agentes no menu lateral.
 
 Para atualizar a versão do agente, clique no "play" correspondente ao agente.
 
-The interface will automatically identify the agent type and ask for the information needed to update the agent. Enter the requested data and click on "Create Task"
+A interface identificará automaticamente o tipo de agente e solicitará as informações necessárias para atualizar o agente. Insira os dados solicitados e clique em "Criar Tarefa"
 
 ![07](https://github.com/Appdynamics/agent-control-center/blob/main/docimages/UpdateAgent-02.png?raw=true)
 
