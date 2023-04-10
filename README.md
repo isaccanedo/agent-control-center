@@ -61,7 +61,7 @@ Agora os agentes podem ser atualizados!
 
 ![05](https://github.com/Appdynamics/agent-control-center/blob/main/docimages/Keys-01.png?raw=true)
 
-To list the agents, click on the Agents item in the side menu.
+Para listar os agentes, clique no item Agentes no menu lateral.
 
 ![06](https://github.com/Appdynamics/agent-control-center/blob/main/docimages/AgentsfromAppD-01.png?raw=true)
 
