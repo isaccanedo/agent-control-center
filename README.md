@@ -73,7 +73,7 @@ A interface identificará automaticamente o tipo de agente e solicitará as info
 
 Uma tarefa Ansilbe ou API será criada, dependendo do tipo de agente de reconhecimento automaticamente.
 
-To see the result of the update, click on the Task item in the menu and then on the task to be viewed.
+Para ver o resultado da atualização, clique no item Tarefa no menu e depois na tarefa a ser visualizada.
 
 ![08](https://github.com/Appdynamics/agent-control-center/blob/main/docimages/Task-01.png?raw=true)
 
