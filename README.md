@@ -79,4 +79,4 @@ Para ver o resultado da atualização, clique no item Tarefa no menu e depois na
 
 ![09](https://github.com/Appdynamics/agent-control-center/blob/main/docimages/Task-02.png?raw=true)
 
-IMPORTANTE: the application needs to be restarted to recognize the new agent version.
+IMPORTANTE: o aplicativo precisa ser reiniciado para reconhecer a nova versão do agente.
