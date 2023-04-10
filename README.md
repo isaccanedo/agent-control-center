@@ -71,7 +71,7 @@ A interface identificará automaticamente o tipo de agente e solicitará as info
 
 ![07](https://github.com/Appdynamics/agent-control-center/blob/main/docimages/UpdateAgent-02.png?raw=true)
 
-An Ansilbe or API task will be created, depending on the type of the recognition agent automatically.
+Uma tarefa Ansilbe ou API será criada, dependendo do tipo de agente de reconhecimento automaticamente.
 
 To see the result of the update, click on the Task item in the menu and then on the task to be viewed.
 
